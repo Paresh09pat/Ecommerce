@@ -15,7 +15,6 @@ const Footer = () => {
               <ul>
                 <li>Careers</li>
                 <li>Our Stores</li>
-                <li>Our Cares</li>
                 <li>Terms & Conditions</li>
                 <li>Privacy Policy</li>
               </ul>
@@ -26,7 +25,6 @@ const Footer = () => {
                 <li>Help Center </li>
                 <li>How to Buy </li>
                 <li>Track Your Order </li>
-                <li>Corporate & Bulk Purchasing </li>
                 <li>Returns & Refunds </li>
               </ul>
             </div>
